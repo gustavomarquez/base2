@@ -35,3 +35,8 @@ new change
 <img src="https://ed.team/sites/default/files/edteam-logo-118.png?2abr2017">
 </body>
 </html>
+
+<?php
+echo '<h1>Hello world from PHP 7.0</h1>';
+
+?>
